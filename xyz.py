@@ -17,7 +17,7 @@ else: print ("its gonna be ok!\n")
 
 answer = input("Should I tell you my name?\n") 
 if "yes" in answer: 
-    print ("my name is...")
+    print ("my name is jayanth...")
     jayanth = pyfiglet.figlet_format("jayanth", font = ("bubble"))
     print (jayanth)
 
